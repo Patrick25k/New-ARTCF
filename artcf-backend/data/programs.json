@@ -1,0 +1,19 @@
+{
+  "education": [
+    { "id": 1, "img": "/images/s2.png", "title": "Women's Literacy Program", "desc": "Adult literacy classes for women who missed out on formal education, empowering them with reading and writing skills.", "stats": ["2,000+ women educated since 1988", "Basic numeracy and life skills", "Community-based learning centers"] },
+    { "id": 2, "img": "/images/s6.jpeg", "title": "Child Education Support", "desc": "Supporting children's education through school fee assistance, supplies, and after-school programs.", "stats": ["5,000+ children supported", "Mentorship programs", "Parental engagement initiatives"] },
+    { "id": 3, "img": "/images/pic8.png", "title": "Vocational Training", "desc": "Practical skills training in various trades to help women gain employment or start their own businesses.", "stats": ["1,500+ women trained annually", "Tailoring, handicrafts, and more", "Business startup support"] },
+    { "id": 4, "img": "/images/s7.jpg", "title": "Digital Literacy", "desc": "Technology training to help women gain essential digital skills for the modern workplace and economy.", "stats": ["Basic computer skills", "Internet and mobile technology", "Online safety education"] }
+  ],
+  "healthcare": [
+    { "id": 5, "img": "/images/pic9.png", "title": "Maternal Health", "desc": "Prenatal care, safe delivery support, and postnatal care for mothers and newborns.", "stats": ["100+ mothers served annually", "Community health workers", "Health education programs"] },
+    { "id": 6, "img": "/images/pic8.png", "title": "HIV/AIDS Support", "desc": "Testing, treatment support, and counseling for women and families affected by HIV/AIDS.", "stats": ["Prevention education", "Support groups", "Stigma reduction programs"] },
+    { "id": 7, "img": "/images/pic10.png", "title": "Nutrition Programs", "desc": "Addressing malnutrition through education, supplemental feeding, and agricultural support for families.", "stats": ["Child nutrition initiatives", "Cooking demonstrations", "Home gardening projects"] }
+  ],
+  "economic": [
+    { "id": 8, "img": "/images/pic2.jpg", "title": "Savings Groups (VSLA)", "desc": "Community savings and loan groups to help women access capital and build financial security.", "stats": ["200+ groups established", "Financial literacy training", "Small business loans"] },
+    { "id": 9, "img": "/images/pic1.png", "title": "Women's Cooperatives", "desc": "Supporting the formation of women's cooperatives for collective economic empowerment and growth.", "stats": ["50+ cooperatives formed", "Agricultural cooperatives", "Artisan collectives"] },
+    { "id": 10, "img": "/images/pic9.png", "title": "Market Access", "desc": "Helping women entrepreneurs connect to markets for their products and services globally.", "stats": ["Business development training", "Market linkages", "E-commerce support"] },
+    { "id": 11, "img": "/images/pic8.png", "title": "Leadership Training", "desc": "Empowering women with leadership skills to take active roles in their communities and workplaces.", "stats": ["Public speaking", "Decision-making skills", "Community organizing"] }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "heroSlides": [
+    {
+      "id": 1,
+      "bg": "/images/pic1.png"
+    },
+    {
+      "id": 2,
+      "bg": "/images/pic2.jpg"
+    },
+    {
+      "id": 3,
+      "bg": "/images/pic3.png"
+    }
+  ],
+  "stats": [
+    {
+      "id": 1,
+      "number": "50+",
+      "label": "Communities Served"
+    },
+    {
+      "id": 2,
+      "number": "10K+",
+      "label": "Lives Impacted"
+    },
+    {
+      "id": 3,
+      "number": "100+",
+      "label": "Projects Completed"
+    },
+    {
+      "id": 4,
+      "number": "25+",
+      "label": "Ongoing Projects"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "text": "ARTCF's education program has transformed our community. Children now have access to quality education and resources they never had before. Our women have become leaders.",
+      "name": "Sarah Johnson",
+      "role": "Community Leader, Kigali",
+      "avatar": ""
+    },
+    {
+      "id": 2,
+      "text": "Before joining the Kira Wigire program, it was very difficult for me to respond to all the needs in my family. After participating in ARTCF's training, I built my own house and paid school fees for my children.",
+      "name": "Bertilde Nyirankurikiyimana",
+      "role": "Program Beneficiary, Gishubi Sector",
+      "avatar": "/images/PIC T.jpg"
+    }
+  ],
+  "partners": [
+    {
+      "id": 1,
+      "src": "/images/USAID-Identity.svg",
+      "alt": "USAID"
+    },
+    {
+      "id": 2,
+      "src": "/images/WHO_logo.svg",
+      "alt": "WHO"
+    },
+    {
+      "id": 3,
+      "src": "/images/The_Global_Fund_logo.svg",
+      "alt": "The Global Fund"
+    },
+    {
+      "id": 4,
+      "src": "/images/UNAIDS.svg",
+      "alt": "UNAIDS"
+    },
+    {
+      "id": 5,
+      "src": "/images/USAID-Seal.svg",
+      "alt": "USAID Seal"
+    },
+    {
+      "id": 6,
+      "src": "/images/US_CDC_logo.svg",
+      "alt": "US CDC"
+    },
+    {
+      "id": 1778230370893,
+      "src": "",
+      "alt": "New Partner"
+    }
+  ],
+  "settings": {
+    "orgName": "ARTCF Rwanda",
+    "tagline": "Empowering Women For Sustainable Development",
+    "foundedYear": "1988",
+    "address": "KG 3 Avenue, Kigali, Rwanda",
+    "phone": "+250 788 858 468",
+    "email": "artcfr@gmail.com",
+    "email2": "artcf2004@yahoo.fr",
+    "hours": "Mon–Fri: 8:00 AM – 5:00 PM",
+    "facebook": "https://www.facebook.com/artcf.rwanda",
+    "twitter": "https://x.com/ArtcfArtcfr",
+    "instagram": "https://www.instagram.com/artcf_r9/",
+    "youtube": "https://www.youtube.com/watch?v=npvEdhGmVlo"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "artcf",
+  "version": "1.0.0",
+  "description": "ARTCF Rwanda - Backend + Frontend",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently --names \"backend,frontend\" --prefix-colors \"cyan,magenta\" \"npm run dev --prefix artcf-backend\" \"npm run dev --prefix artcf-website\"",
+    "start": "concurrently --names \"backend,frontend\" --prefix-colors \"cyan,magenta\" \"npm run start --prefix artcf-backend\" \"npm run start --prefix artcf-website\"",
+    "install:all": "npm install --prefix artcf-backend && npm install --prefix artcf-website"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
